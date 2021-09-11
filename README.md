@@ -1,4 +1,10 @@
-# Supervised Machine Learning Homework - Predicting Credit Risk
+# Supervised Machine Learning Homework - Predicting Credit Risk - Due 09/11/2021
+
+
+
+### Homework submission:   https://github.com/lcswsher/supervised_machine_learning/blob/main/Credit%20Risk%20Evaluator.ipynb
+
+
 
 In this assignment, you will be building a machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not. 
 
